@@ -50,7 +50,7 @@ This Repository contains multiple projects related to Machine Learning,Django an
 | --- | --- |
 | *Description* | The objective is to predict the revenue of big market using ML algos |
 | *ML Algorithm Used* | `Decision Tree Random Forest` |
-| *Type of ML Problem* | `Classification` |
+| *Type of ML Problem* | `Regression` |
 
 
 ### Feature Engineering
