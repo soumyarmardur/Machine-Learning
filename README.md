@@ -3,9 +3,7 @@ This Repository contains multiple projects related to Machine Learning
 
 <b>Tools Used:</b> Anaconda3, Microsoft SQL Server, R Studio, PyCharm, Postman
 
-## Machine Learning
-
-### Projects
+## Machine Learning Projects
 
 #### project1: Text Classification
 
