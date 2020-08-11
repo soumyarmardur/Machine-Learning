@@ -11,7 +11,7 @@ This Repository contains multiple projects related to Machine Learning,Django an
 
 ### Projects
 
-* project1: Text Classification
+#### project1: Text Classification
 
 | ML Types | Algorithm |
 | --- | --- |
@@ -20,10 +20,7 @@ This Repository contains multiple projects related to Machine Learning,Django an
 | *Type of ML Problem* | `Text Classification` |
 
 
-* project2: Employee Attrition
-
-Description:
-
+#### project2: Employee Attrition
 
 | ML Types | Algorithm |
 | --- | --- |
@@ -31,7 +28,7 @@ Description:
 | *ML Algorithm Used* | `Decision Tree` `Random Forest` `Naive Bayes` |
 | *Type of ML Problem* | `Classification` |
 
-* project3: Loan Approval Prediction
+#### project3: Loan Approval Prediction
 
 | ML Types | Algorithm |
 | --- | --- |
@@ -39,7 +36,7 @@ Description:
 | *ML Algorithm Used* | `Decision Tree Random Forest` `Naive Bayes` |
 | *Type of ML Problem* | `Classification` |
 
-* project4: No Show Appointment
+#### project4: No Show Appointment
 
 | ML Types | Algorithm |
 | --- | --- |
@@ -47,7 +44,7 @@ Description:
 | *ML Algorithm Used* | `Naive Bayes` |
 | *Type of ML Problem* | `Classification` |
 
-* project5: Big Market Revenue Prediction
+#### project5: Big Market Revenue Prediction
 
 | ML Types | Algorithm |
 | --- | --- |
