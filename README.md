@@ -1,9 +1,5 @@
 
-
-This Repository contains multiple projects related to Machine Learning,Django and R/Python.
-
-# Table of Contents
-1. [Machine Learning](#machine-learning)
+This Repository contains multiple projects related to Machine Learning
 
 <b>Tools Used:</b> Anaconda3, Microsoft SQL Server, R Studio, PyCharm, Postman
 
