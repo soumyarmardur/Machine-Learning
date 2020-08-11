@@ -13,7 +13,7 @@ This Repository contains multiple projects related to Machine Learning,Django an
 
 #### project1: Text Classification
 
-| ML Types | Algorithm |
+| ML Types | Description |
 | --- | --- |
 | *Description* |  |
 | *ML Algorithm Used* | `Naive Bayes` |
@@ -22,7 +22,7 @@ This Repository contains multiple projects related to Machine Learning,Django an
 
 #### project2: Employee Attrition
 
-| ML Types | Algorithm |
+| ML Types | Description |
 | --- | --- |
 | *Description* | The objective is regarding retaining outstanding employees. You can analyze all relevant employee data and develop focused employee retention programs |
 | *ML Algorithm Used* | `Decision Tree` `Random Forest` `Naive Bayes` |
@@ -30,7 +30,7 @@ This Repository contains multiple projects related to Machine Learning,Django an
 
 #### project3: Loan Approval Prediction
 
-| ML Types | Algorithm |
+| ML Types | Description |
 | --- | --- |
 | *Description* | Thie objective is regarding automating the loan eligibility process based on customer detail provided using ML. |
 | *ML Algorithm Used* | `Decision Tree Random Forest` `Naive Bayes` |
@@ -38,7 +38,7 @@ This Repository contains multiple projects related to Machine Learning,Django an
 
 #### project4: No Show Appointment
 
-| ML Types | Algorithm |
+| ML Types | Description |
 | --- | --- |
 | *Description* | The objective is regarding analysis of the patients who would more likely to miss their appointments |
 | *ML Algorithm Used* | `Naive Bayes` |
@@ -46,7 +46,7 @@ This Repository contains multiple projects related to Machine Learning,Django an
 
 #### project5: Big Market Revenue Prediction
 
-| ML Types | Algorithm |
+| ML Types | Description |
 | --- | --- |
 | *Description* | The objective is to predict the revenue of big market using ML algos |
 | *ML Algorithm Used* | `Decision Tree Random Forest` |
