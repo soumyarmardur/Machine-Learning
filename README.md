@@ -5,16 +5,7 @@ This Repository contains multiple projects related to Machine Learning
 
 ## Machine Learning Projects
 
-#### project1: Text Classification
-
-| ML Types | Description |
-| --- | --- |
-| *Description* |  |
-| *ML Algorithm Used* | `Naive Bayes` |
-| *Type of ML Problem* | `Text Classification` |
-
-
-#### project2: Employee Attrition
+#### Project1: Employee Attrition
 
 | ML Types | Description |
 | --- | --- |
@@ -22,7 +13,21 @@ This Repository contains multiple projects related to Machine Learning
 | *ML Algorithm Used* | `Decision Tree` `Random Forest` `Naive Bayes` |
 | *Type of ML Problem* | `Classification` |
 
-#### project3: Loan Approval Prediction
+<b>Additional Information:</b><br>
+* Processed and implemented various optimization technique like choosing the optimal number of features using entropy
+* Data Analysis and Pre-Processing technique was carried out like identifying and removing null values, multicollinearity, Outliers and feature selection technique 
+  with the help of information gain 
+*	Model Performance Evaluation using confusion matrix (Precision, Recall and F1-Score)
+
+#### Project2: Text Classification
+
+| ML Types | Description |
+| --- | --- |
+| *Description* | The objective is to classify "SPAM" and "HAM" Emails |
+| *ML Algorithm Used* | `Naive Bayes` |
+| *Type of ML Problem* | `Text Classification` |
+
+#### Project3: Loan Approval Prediction
 
 | ML Types | Description |
 | --- | --- |
@@ -30,7 +35,7 @@ This Repository contains multiple projects related to Machine Learning
 | *ML Algorithm Used* | `Decision Tree Random Forest` `Naive Bayes` |
 | *Type of ML Problem* | `Classification` |
 
-#### project4: No Show Appointment
+#### Project4: No Show Appointment
 
 | ML Types | Description |
 | --- | --- |
@@ -38,7 +43,7 @@ This Repository contains multiple projects related to Machine Learning
 | *ML Algorithm Used* | `Naive Bayes` |
 | *Type of ML Problem* | `Classification` |
 
-#### project5: Big Market Revenue Prediction
+#### Project5: Big Market Revenue Prediction
 
 | ML Types | Description |
 | --- | --- |
@@ -47,7 +52,7 @@ This Repository contains multiple projects related to Machine Learning
 | *Type of ML Problem* | `Regression` |
 
 
-### Feature Engineering
+### Feature Engineering Used
 `Outliers`<br>
 `Multi Colinear`<br>
 `Normalization`<br>
@@ -59,4 +64,3 @@ This Repository contains multiple projects related to Machine Learning
 `Decision Tree`<br>
 `Random Forest`<br>
 `Naive Bayes`<br>
-
