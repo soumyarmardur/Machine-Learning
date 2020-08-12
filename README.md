@@ -51,6 +51,11 @@ This Repository contains multiple projects related to Machine Learning
 | *ML Algorithm Used* | `Decision Tree Random Forest` |
 | *Type of ML Problem* | `Regression` |
 
+<b>Additional Information:</b><br>
+* Data Analysis and Pre-Processing technique was carried out like identifying and removing null values, multicollinearity, Outliers, normalization
+*	Model Performance Evaluation using R^2(Multiple R Square, Adjusted R square)
+
+
 
 ### Feature Engineering Used
 `Outliers`<br>
