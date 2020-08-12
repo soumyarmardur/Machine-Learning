@@ -5,6 +5,10 @@ This Repository contains multiple projects related to Machine Learning
 
 ## Machine Learning Projects
 
+<b>ML Lifecycle</b>
+
+Data Aquisition :arrow_right:Data Preprocessing :arrow_right:Data Split:arrow_right: Model selection :arrow_right: Model Building and Evaluation :arrow_right: Model Optimisation :arrow_right:Retrain 
+
 #### Project1: Employee Attrition
 
 | ML Types | Description |
